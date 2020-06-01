@@ -28,6 +28,7 @@
 		9A088429247EB9BE006EBA5A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A08842C247EB9BE006EBA5A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A08842E247EB9BE006EBA5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A088434247FB75E006EBA5A /* testing for Physics simulation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "testing for Physics simulation.playground"; path = "../../testing for Physics simulation.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		9A08841B247EB9B6006EBA5A /* Parachute Simulation */ = {
 			isa = PBXGroup;
 			children = (
+				9A088434247FB75E006EBA5A /* testing for Physics simulation.playground */,
 				9A08841C247EB9B6006EBA5A /* AppDelegate.swift */,
 				9A08841E247EB9B6006EBA5A /* GameScene.sks */,
 				9A088420247EB9B6006EBA5A /* Actions.sks */,
